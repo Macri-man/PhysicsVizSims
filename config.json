@@ -1,0 +1,56 @@
+{
+  "balls": [
+    {
+      "x": 100,
+      "y": 150,
+      "radius": 20,
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "vx": 2,
+      "vy": 3,
+      "waveform": "sine"
+    },
+    {
+      "x": 300,
+      "y": 200,
+      "radius": 25,
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "vx": -3,
+      "vy": 1,
+      "waveform": "square"
+    },
+    {
+      "x": 500,
+      "y": 350,
+      "radius": 30,
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "vx": 1,
+      "vy": -2,
+      "waveform": "triangle"
+    },
+    {
+      "x": 400,
+      "y": 100,
+      "radius": 18,
+      "color": [
+        255,
+        255,
+        0
+      ],
+      "vx": -2,
+      "vy": 2,
+      "waveform": "sine"
+    }
+  ]
+}
